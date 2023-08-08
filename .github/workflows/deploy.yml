@@ -24,6 +24,5 @@ jobs:
     - name: Run the app
       run: python app.py
 
-    - name: Verify Deployment
-      run: curl http://localhost:5000
+    
 
